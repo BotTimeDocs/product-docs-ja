@@ -22,3 +22,13 @@
 ### 入力
 
 - **項目** ：プルダウンリストで選択する項目。最終的にアクティビティはこの項目をクリックして、プルダウンに表示させます。文字列変数と文字列のみをサポートします。
+
+## 操作サンプル
+1. **アイテムを選択**アクティビティをドラッグ、対応するプロパティ値を設定。
+![](https://docimages.blob.core.chinacloudapi.cn/images/Activities/selectItem1.png)
+
+2. 要素を指定し、元素の存在性を確認。
+![](https://docimages.blob.core.chinacloudapi.cn/images/Activities/selectItem2.png)
+
+3. プロセスを実行して結果を確認
+![](https://docimages.blob.core.chinacloudapi.cn/images/Activities/selectItem3.png)

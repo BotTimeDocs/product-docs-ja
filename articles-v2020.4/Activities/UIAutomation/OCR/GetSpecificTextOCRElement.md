@@ -37,3 +37,19 @@ OCR
 
 ### 出力
 - **OCR要素** ：この変数にマッチする要素を格納します。文字列変数と文字列のみをサポートしますします。
+
+## 操作サンプル
+1. **OCRテキストを含む要素を取得**アクティビティをドラッグ、元素を指定して、メーカー、メーカーのAppKeyとAppSecretなどを設定。（Tecent OCRを例とする）
+![](https://docimages.blob.core.chinacloudapi.cn/images/Activities/GetSpecificTextOCRElement1.png)
+
+   **OCR エリア**：
+   ![](https://docimages.blob.core.chinacloudapi.cn/images/Activities/OCR-sample.png)
+
+2. 要素の存在性を検証:
+![](https://docimages.blob.core.chinacloudapi.cn/images/Activities/GetSpecificTextOCRElement2.png)
+
+3. **クリック**アクティビティをドラッグ、入力コントロール要素を前のステップに戻ったオブジェクトに設定。
+![](https://docimages.blob.core.chinacloudapi.cn/images/Activities/GetSpecificTextOCRElement3.png)
+
+4. プロセスを実行して結果を確認：
+![](https://docimages.blob.core.chinacloudapi.cn/images/Activities/GetSpecificTextOCRElement4.png)

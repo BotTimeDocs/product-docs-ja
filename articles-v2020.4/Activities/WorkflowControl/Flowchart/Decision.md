@@ -3,7 +3,6 @@
 指定された条件を満たすかどうかに応じて、プロセスチャートの2つのブランチを選択して実行します。このアクティビティトはプロセスチャートでしか使えません。効果は"条件 (If)"アクティビティに似ています。
 
 ## プロパティ
-
 ### 基本
 
 - **表示名** ：デフォルトはこのアクティビティの名前です。このアクティビティの表示名の変更、カスタマイズがサポートされています。
@@ -14,6 +13,19 @@
 ### 入力
 - **条件** ：Boolean型の表現式
 
-その他
+### その他
 - **False ラベル** ：決定はFalseで、決定の名前はカスタマイズできます。
 - **True ラベル** ：決定はTrueで、決定の名前はカスタマイズできます。
+
+## 操作サンプル
+1. **要素が表示されるまて待つ** アクティビティをドラッグ、要素を指定し、出力に結果変数isTrueを追加
+![](https://docimages.blob.core.chinacloudapi.cn/images/Activities/decision-1.png)
+
+2. **プロセス条件分岐** アクティビティをドラッグ、ステップ1中の出力変数isTrueを入力条件のConditionとする。
+![](https://docimages.blob.core.chinacloudapi.cn/images/Activities/decision-3.png)
+
+3. 二つ**ログに書き込み** アクティビティをドラッグ、それぞれプロセス条件分岐アクティビティのTrueとFalseに接続し、要素が現れるかどうかのヒントを追加する。
+![](https://docimages.blob.core.chinacloudapi.cn/images/Activities/decision-2.png)
+
+4. ステップ1で指定した要素のページを開いたままにして、プロセスを実行し、出力ウィンドウのヒントを確認。
+![](https://docimages.blob.core.chinacloudapi.cn/images/Activities/decision-4.png)

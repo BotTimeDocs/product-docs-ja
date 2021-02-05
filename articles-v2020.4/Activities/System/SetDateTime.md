@@ -25,8 +25,9 @@
 ![](https://docimages.blob.core.chinacloudapi.cn/images/Activities/setDate-2.png)
 
 
-3. **ログに書き込み**アクティビティをドラッグは、ユーザーが設定した日付と時間を出力。
+3. **ログに書き込み**アクティビティをドラッグ、ユーザーが設定した日付と時間を出力。
 ![](https://docimages.blob.core.chinacloudapi.cn/images/Activities/setDate-3.png)
 
-4. ユーザーが指定した日付と時間を出力。
+4. プロセスを実行し、ユーザーが指定した日付と時間を出力。
 ![](https://docimages.blob.core.chinacloudapi.cn/images/Activities/setDate-4.png)
+

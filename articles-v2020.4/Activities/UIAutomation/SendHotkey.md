@@ -30,3 +30,17 @@
 ### 入力
 
 - **ホットキー** ：このキーをシミュレートクリックします。マルチキーに対応しています。例えば、"A、Z"は同時に押したいシーンで、"AZ"を記入すればいいです。
+
+## 操作サンプル
+1. **テキストをクリップボードに設定**アクティビティをドラッグ、入力テキストを設定。
+![](https://docimages.blob.core.chinacloudapi.cn/images/Activities/sendHotkey-1.png)
+
+2. **ホットキーを送信**アクティビティをドラッグ、要素を指定してホットキーをCTRL+Vに設定。
+![](https://docimages.blob.core.chinacloudapi.cn/images/Activities/sendHotkey-2.png)
+
+3. プロセス実行をクリックして、プロセスの実行結果を確認。
+![](https://docimages.blob.core.chinacloudapi.cn/images/Activities/sendHotkey-3.png)
+
+   > **説明:**
+   >
+   >このプロセスは、多くのシーンで"テキストを入力"アクティビティの代わりに使用される、実行効率が高く、テキストの入力が間違いにくい。

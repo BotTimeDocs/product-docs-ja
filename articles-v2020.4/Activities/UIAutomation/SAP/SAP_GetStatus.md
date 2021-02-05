@@ -34,7 +34,7 @@ SAPステータスバーを指定すると、読み出したステータスバ�
 3. **ステータスバーを読み取り**アクティビティをドラッグして、"ステータスバー"要素を指定して、出力変数を設定する
 ![](https://docimages.blob.core.chinacloudapi.cn/images/Activities/SAPGetStatus-2.png)
 
-4. **ログに書き込み**アクティビティをドラッグして、ステップ2で取得した変数を### 入力
+4. **ログに書き込み**アクティビティをドラッグして、ステップ2で取得した変数を入力
 ![](https://docimages.blob.core.chinacloudapi.cn/images/Activities/SAPGetStatus-3.png)
 
 5. プロセスを実行をクリックして、変数値を確認する

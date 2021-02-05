@@ -28,3 +28,16 @@
   >**説明：**
   >
   >他のアクティビティ（クリック、テキストを入力など）の入力方式が**コントロールを設定**ではないの場合のみ、画像認識でコントロール要素を認識して入力とすることをサポートします。
+
+## 操作サンプル
+1. **要素を取得**アクティビティをドラッグ、要素を指定。
+![](https://docimages.blob.core.chinacloudapi.cn/images/Activities/getElement1.png)
+
+2. クリックアクティビティをドラッグ、取得した要素オブジェクトをクリック
+![](https://docimages.blob.core.chinacloudapi.cn/images/Activities/getElement2.png)
+
+3. 取得した要素オブジェクトのある方法をプリントする：
+![](https://docimages.blob.core.chinacloudapi.cn/images/Activities/getElement3.png)
+
+
+

@@ -13,3 +13,15 @@
 
 ### 入力
 - **繰り返し条件** ：この繰り返しを実行するために必要な条件
+
+## 操作サンプル
+
+1. **繰り返し(Do While)**アクティビティをドラッグは、変数countを作成し、データタイプをInt 32とし、デフォルト値を1とし、循環条件count\<=3を追加します。
+![](https://docimages.blob.core.chinacloudapi.cn/images/Activities/dowhile-1.png)
+
+2. モジュールをダブルクリックして展開します。**値を賦与する**アクティビティを繰り返し(Do While)容器にドラッグして、countを増分します。すなわち、count=count+1:
+![](https://docimages.blob.core.chinacloudapi.cn/images/Activities/dowhile-2.png)
+
+3. **ログに書き込み**アクティビティをドラッグ、プリント内容を記入。"サイクル数:"+。count.ToString（）をクリックし、実行プロセスをクリックして出力ログを確認します。
+![](https://docimages.blob.core.chinacloudapi.cn/images/Activities/dowhile-3.png)
+

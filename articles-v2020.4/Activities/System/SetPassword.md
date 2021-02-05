@@ -19,3 +19,16 @@
 ### 出力
 
 - **変数に代入** ：この変数に敏感な情報を格納します。文字列変数と文字列のみをサポートします。
+
+## 操作サンプル
+1. **パスワードを設定**アクティビティをデザインパネルにドラッグ:
+![](https://docimages.blob.core.chinacloudapi.cn/images/Activities/setPassword-1.png)
+
+2. ダブルクリックしてアクティビティの内に入り、プロパティの引数を設定。
+![](https://docimages.blob.core.chinacloudapi.cn/images/Activities/setPassword-2.png)
+
+3. **ログに書き込み**アクティビティをドラッグ、ユーザが設定したパスワードを出力する。
+![](https://docimages.blob.core.chinacloudapi.cn/images/Activities/setPassword-3.png)
+
+4. プロセスを実行、コンソールの出力を確認。
+![](https://docimages.blob.core.chinacloudapi.cn/images/Activities/setPassword-4.png)

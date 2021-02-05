@@ -22,3 +22,13 @@
 ### オプション
 - **ハイライトカラー** ：ハイライトのカラーを指定します。
 - **ハイライト時間（ms）** ：ハイライトの時間。単位はミリ秒（ms）で、1000ms=1sです。整数変数と整数型のみサポートされています。
+
+## 操作サンプル
+1. **ハイライト**アクティビティをドラッグ、対応するプロパティ値を設定。
+![](https://docimages.blob.core.chinacloudapi.cn/images/Activities/highlight1.png)
+
+2. 要素を指定し、元素の存在を確認。
+![](https://docimages.blob.core.chinacloudapi.cn/images/Activities/highlight2.png)
+
+3. プロセスを実行して結果を確認。
+![](https://docimages.blob.core.chinacloudapi.cn/images/Activities/highlight3.png)

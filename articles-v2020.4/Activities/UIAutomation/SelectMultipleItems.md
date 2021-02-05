@@ -15,9 +15,21 @@
 - **タイムアウト(ミリ秒)** ：このアクティビティの実行時間を指定します。単位はミリ秒（ms）で、1000ms = 1sです。マッチングタイムアウト(ミリ秒)が含まれます。この時間を超えたら、アクティビティがまだ実行されていない場合、エラーがスローされます。
 
 
-ターゲット
+### ターゲット
+
 - **項目** ：選択したい複数の項目。文字列変数と文字列のみをサポートします。
 
 
 ### オプション
+
 - **選択した項目をクリア** ：チェックした後、選択した項目をクリアしてからチェックを実行します。チェックしない場合は、選択した項目をクリアしないで、直接チェックを実行します。
+
+## 操作サンプル
+1. **複数のアイテムを選択**アクティビティをドラッグ、対応するプロパティ値を設定。
+![](https://docimages.blob.core.chinacloudapi.cn/images/Activities/selectMultipleItems1.png)
+
+2. 要素を指定し、元素の存在を確認。
+![](https://docimages.blob.core.chinacloudapi.cn/images/Activities/selectMultipleItems2.png)
+
+3. プロセスを実行して結果を確認
+![](https://docimages.blob.core.chinacloudapi.cn/images/Activities/selectMultipleItems3.png)

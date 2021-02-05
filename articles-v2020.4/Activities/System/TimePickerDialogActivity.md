@@ -23,3 +23,22 @@
 
 - **タイトル** ：(必須ではない)カスタムの**日付と時刻の選択ボックス**アクティビティが実行する時のタイトル。変数を入力できます。
 - **説明** ：(必須ではない)カスタムの**日付と時刻の選択ボックス**アクティビティが実行する時の説明情報。変数を入力できます。
+
+## 操作サンプル
+1. **日付と時間の選択ボックス**アクティビティをデザインパネルにドラッグ:
+![](https://docimages.blob.core.chinacloudapi.cn/images/Activities/timePicker-1.png)
+
+2. ブルクリックしてアクティビティ内に入り、プロパティの引数を設定。
+
+    ![](https://docimages.blob.core.chinacloudapi.cn/images/Activities/timePicker-2.png)
+
+- タイトル：日付と時間の選択ボックスアクティビティが実行時のタイトルをカスタマイズ。例えば、"時間"
+- 説明：日付と時間の選択ボックスアクティビティが実行時の説明情報をカスタマイズ。例えば、"今の時間は："。
+- 出力：ユーザーがポップアップで指定した日付と時間を出力します。ここで現在の時間を指定します。
+
+3. **ログに書き込み**アクティビティをドラッグ:
+![](https://docimages.blob.core.chinacloudapi.cn/images/Activities/timePicker-3.png)
+
+4. プロセスを実行、ポップアップはユーザーに日付と時間を選択させて出力させます：
+![](https://docimages.blob.core.chinacloudapi.cn/images/Activities/timePicker-4.png)
+![](https://docimages.blob.core.chinacloudapi.cn/images/Activities/timePicker-5.png)

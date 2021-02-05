@@ -15,3 +15,12 @@
 
 ### オプション
 - **接続されていないノードを検証** ：プロセスで接続されていないアクティビティを確認するかどうか
+
+## 操作サンプル
+
+1. **プロセスチャート**アクティビティをプロジェクトプロセスにドラッグ:
+![](https://docimages.blob.core.chinacloudapi.cn/images/Activities/flowchart-1.png)
+
+2. ダブルクリックして、他のアクティビティを**プロセスチャート**アクティビティにドラッグ、例：**確認ボックス**アクティビティをドラッグ、下図のように：
+![](https://docimages.blob.core.chinacloudapi.cn/images/Activities/flowchart-2.png)
+

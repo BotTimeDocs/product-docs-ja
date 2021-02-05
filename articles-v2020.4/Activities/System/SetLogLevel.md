@@ -15,3 +15,26 @@
 ログ
 
 - **ログレベル** ：全部で三つのオプションがあります。Debug、Info、Err。Debugを選択すると、最も詳細なログ情報が表示されます。Infoを選択すると、InfoとErrレベルのログ情報が表示されます。Errを選択すると、Errログのみが出力されます。
+
+## 操作サンプル
+1. **ログレベルを設定**アクティビティをデザインパネルにドラッグ:
+![](https://docimages.blob.core.chinacloudapi.cn/images/Activities/setLoglevel-1.png)
+
+
+2. 3つ**ログに書き込み**アクティビティを設計パネルにドラッグ、ログレベルはそれぞれ"Debug"、"Info"、"Error"を選択し、それぞれ"Debugログ"、"Infoログ"、"Errorログ"と命名。
+- Debugログ出力のログ情報を設定："私はDebugのログです。"
+- Infoログ出力のログ情報を設定："私はInfoのログです。"
+- Errorログ出力のログ情報を設定："私はErrorのログです。"
+
+![](https://docimages.blob.core.chinacloudapi.cn/images/Activities/setLoglevel-2.png)
+
+
+3. **ログレベルを設定**アクティビティのログレベルを"Debug"に設定、プロセスを実行、コンソールにDebug、Info、Errorレベルのログ情報が出力されます。
+![](https://docimages.blob.core.chinacloudapi.cn/images/Activities/setLoglevel-3.png)
+
+
+4. **ログレベルを設定**アクティビティのログレベルを"Info"に設定、プロセスを実行、コンソールにInfo、Errorレベルのログ情報が出力されます。
+![](https://docimages.blob.core.chinacloudapi.cn/images/Activities/setLoglevel-4.png)
+
+5. **ログレベルを設定**アクティビティのログレベルを"Error"に設定、プロセスを実行、コンソールにErrorレベルのログ情報のみが出力されます。
+![](https://docimages.blob.core.chinacloudapi.cn/images/Activities/setLoglevel-5.png)

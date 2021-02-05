@@ -9,3 +9,13 @@
 - **表示名** ：デフォルトはこのアクティビティの名前です。このアクティビティの表示名の変更、カスタマイズがサポートされています。
 ### 入力
 - **X/Y座標** ：Windowsオペレーティングシステムでは、画面上のすべてのポイントに一意の座標があり、座標は2つの整数で構成されます。1つはx（つまり、横座標）と呼ばれ、もう1つはy（つまり、縦座標）と呼ばれます。
+
+## 操作サンプル
+1. **マウスを移動**アクティビティをドラッグ、x、y座標を設定して、プロセスを実行して効果を確認。
+
+    ![](https://docimages.blob.core.chinacloudapi.cn/images/Activities/MouseMove-1.png)
+
+    > **説明:**
+    >一般的は**マウスの位置を取得**アクティビティと組み合わせてで使う。[*スライダー検証*](https://docimages.blob.core.chinacloudapi.cn/images/dgsSample/滑块验证.egs)プロセスを参照してマウスを移動アクティビティの具体的な使い方を確認してください。使用する時は以下の図に従って対応する元素を指定してください：
+
+    ![](https://docimages.blob.core.chinacloudapi.cn/images/Activities/MouseMove-2.png)

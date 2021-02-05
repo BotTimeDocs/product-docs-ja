@@ -17,3 +17,14 @@
 - **コントロール要素** ：変数を受信してマウスホバーのターゲット要素とします。この項は&quot;セレクタ&quot;と二者択一で入力する必要があります。
 - **セレクタ** ：マウスホバーの目標位置を示すために使用します。&quot;要素を指定&quot;をクリックすることで自動生成できます。文字列変数と文字列のみをサポートします。
 - **検出タイムアウト（ミリ秒）** ：ターゲット要素を検索する時間を限定し、指定時間を超えたら待ちません。この時間を超えて指定された要素が検出されていない場合、エラーがスローされます。単位はミリ秒（ms）で、1000ms = 1sです。整数変数と整数型のみサポートされています。
+
+## 操作サンプル
+1. **ブラウザを開く** アクティビティをドラッグ、URLを入力します。例えば、https://www.encoo.com:
+![](https://docimages.blob.core.chinacloudapi.cn/images/Activities/hover-1.png)
+
+2. **ホバー** アクティビティをドラッグ、ウェブページ上でホバーしないと展示できない要素を指定。
+![](https://docimages.blob.core.chinacloudapi.cn/images/Activities/hover-2.png)
+
+3. プロセス実行をクリックして、ホバー効果を確認。
+![](https://docimages.blob.core.chinacloudapi.cn/images/Activities/hover-3.png)
+

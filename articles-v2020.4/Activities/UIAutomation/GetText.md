@@ -21,3 +21,16 @@
 ### 出力
 
 - **テキスト** ：取得したテキストの内容をこの変数に格納します。文字列変数と文字列のみをサポートします。
+
+## 操作サンプル
+1. **テキストを取得**アクティビティをドラッグ、要素を指定。
+![](https://docimages.blob.core.chinacloudapi.cn/images/Activities/getText-1.png)
+
+2. セレクタウィンドウを開き、"未検証"ボタンをクリックして指定した要素が識別されているかどうかを確認し、識別に成功したら"確認"ボタンをクリックしてセレクタウィンドウを閉じる。
+![](https://docimages.blob.core.chinacloudapi.cn/images/Activities/getText-2.png)
+
+3. 出力にテキスト変数textを設定。
+![](https://docimages.blob.core.chinacloudapi.cn/images/Activities/getText-3.png)
+
+4. **確認ボックス**アクティビティをドラッグ、変数textを確認ボックスの内容として、プロセスを実行をクリックして取得したデータを確認。
+![](https://docimages.blob.core.chinacloudapi.cn/images/Activities/getText-4.png)

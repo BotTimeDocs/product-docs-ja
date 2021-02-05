@@ -48,5 +48,4 @@
 ![](https://docimages.blob.core.chinacloudapi.cn/images/Activities/clickScreenText2.png)
 
 3. プロセスを実行して結果を確認
-。
 ![](https://docimages.blob.core.chinacloudapi.cn/images/Activities/clickScreenText3.png)

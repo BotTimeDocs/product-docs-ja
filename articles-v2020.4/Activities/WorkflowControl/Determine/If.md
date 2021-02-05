@@ -14,3 +14,17 @@
 ### 入力
 
 - **判断条件** ：Boolean型の表現式
+
+## 操作サンプル
+
+1. **構造化データを取得**アクティビティをドラッグ、ページの（例：[あるサイト](http://stockpage.10jqka.com.cn/1A0001/#refCountId=stockpage_5c3e9aef_93)）テーブル要素を指定、出力変数を設定：
+![](https://docimages.blob.core.chinacloudapi.cn/images/Activities/if-1.png)
+
+2. **条件(if)**アクティビティをドラッグ、判断条件に dt.Rows.Count == 10 （データテーブルに10行のデータがあるかどうかを判断する）を設定：
+![](https://docimages.blob.core.chinacloudapi.cn/images/Activities/if-2.png)
+
+3. **条件(if)**アクティビティをダブルクリック。二つの**ログに書き込み**アクティビティを条件容器にドラッグ、判断条件がTrueとFalseによって、それぞれ異なるテキストをログに書き込む。
+![](https://docimages.blob.core.chinacloudapi.cn/images/Activities/if-3.png)
+
+4. プロセス実行をクリックして実行結果を確認。
+![](https://docimages.blob.core.chinacloudapi.cn/images/Activities/if-4.png)

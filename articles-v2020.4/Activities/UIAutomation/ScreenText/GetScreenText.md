@@ -24,3 +24,13 @@
 
 - **純テキスト** ：取得したテキストをこの変数に保存します。文字列変数と文字列のみをサポートします。
 - **テキスト要素リスト** ：取得したテキスト要素リストをこの変数に格納します。リストのサブセットは、クリックなどのアクティビティの入力として使用できます。 これらの要素を操作する場合、マウスとキーボードをシミュレートする方法のみがサポートされており、コントロール設定はサポートされていません。
+
+## 操作サンプル
+1. **画面上のテキストを取得**アクティビティをドラッグを指定して、Adobe Acrobat右側のツールバーを指定する
+![](https://docimages.blob.core.chinacloudapi.cn/images/Activities/getScreenTxt1.png)
+
+2. 要素の有効性を検証:
+![](https://docimages.blob.core.chinacloudapi.cn/images/Activities/getScreenTxt2.png)
+
+3. プロセスを実行して結果を確認
+![](https://docimages.blob.core.chinacloudapi.cn/images/Activities/getScreenTxt3.png)

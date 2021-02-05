@@ -17,3 +17,13 @@
 
 ### オプション
 - **キー修飾子** ：キー修飾子の追加に使用されます。クリック時にキー修飾子を同時に押す効果を実現します。使用可能なオプションは次のとおりです：Shift、Ctrl、Alt、Win。
+
+## 操作サンプル
+1. **マウスの位置を取得**アクティビティをドラッグ、x、y座標変数を設定し、変数エリアに同期。
+![](https://docimages.blob.core.chinacloudapi.cn/images/Activities/Coordinate-1.png)
+
+2. **座標によるクリック**アクティビティをドラッグ、x、y変数をX座標とy座標に入力。
+![](https://docimages.blob.core.chinacloudapi.cn/images/Activities/Coordinate-2.png)
+
+3. プロセス実行をクリックして、マウスをクリックできるボタンなどの位置に置いて、実行効果を確認。
+![](https://docimages.blob.core.chinacloudapi.cn/images/Activities/Coordinate-3.png)
