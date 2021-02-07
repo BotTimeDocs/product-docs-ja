@@ -23,3 +23,4 @@
 すべてのデータを記入してから、公開をクリックして、システムは自動的に今のバージョンを保存して、コンソールに公開します。
 公開が成功すると、成功が提示されます。
 ![devmode](https://docimages.blob.core.chinacloudapi.cn/images/Kris/AppsV2/publicapps.png)
+

@@ -27,3 +27,4 @@
 ここでメニュー名を変更でき、メニューに表示アイコンも追加できます。メニューに対応する遷移するページをバインドできます。
 ![devmode](https://docimages.blob.core.chinacloudapi.cn/images/Kris/AppsV2/leftmenu5.png)
 メニューにバインドした遷移ページが空であるまたは存在しない場合は、メニューをクリックすると、ミニプログラムは現在のページに留まります。
+
