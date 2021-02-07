@@ -20,5 +20,5 @@
 2. ブルクリックしてアクティビティを展開。**代入**アクティビティを繰り返し(Do While)コンテナにドラッグして、countの増加を設定。すなわち、count=count+1:
 ![](https://docimages.blob.core.chinacloudapi.cn/images/Activities/dowhile-2.png)
 
-3. **ログに書き込み**アクティビティをドラッグ、プリント内容を記入。"繰り返しの数： " + count.ToString()、実行プロセスをクリックして出力ログを確認。
+3. **ログに書き込み**アクティビティをドラッグ、プリント内容を記入。"繰り返しの回数： " + count.ToString()、実行プロセスをクリックして出力ログを確認。
 ![](https://docimages.blob.core.chinacloudapi.cn/images/Activities/dowhile-3.png)

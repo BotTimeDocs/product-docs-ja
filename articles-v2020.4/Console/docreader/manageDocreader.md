@@ -70,3 +70,6 @@
 現在のテンプレートがテストに通過した後、テンプレート設定ページまたは操作オプションで"操作"ボタンをクリックして、現在のテンプレートを公開できます。公開が完了したら、[アクティビティを呼び出し](activities/../../../Activities/Console/DocReader.md)で現在のテンプレートサービを利用でき、RPAプロセスで非構造テキスト情報を大量に抽出することができます。
 
 ![docreader](https://docimages.blob.core.chinacloudapi.cn/images/Console/docreader6.png)
+
+
+

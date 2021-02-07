@@ -16,3 +16,4 @@
 ## リソースグループを削除
 削除するリソースグループを見つけ、削除ボタンをクリックすると、リソースグループの情報を削除できます。
 ![createroles](https://docimages.blob.core.chinacloudapi.cn/images/Console/group/V3resource5.png)
+

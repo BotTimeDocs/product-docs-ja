@@ -12,5 +12,6 @@
 - **表示名** ：デフォルトはこのアクティビティの名前です。このアクティビティの表示名の変更、カスタマイズがサポートされています。
 
 
-## 例
-[*Greess Number*](https://docimages.blob.core.chinacloudapi.cn/images/dgsSample/GuessNumber.dgs)を参照すればステートマシン関連のアクティビティの具体的な使い方を了解できます。
+## 操作サンプル
+
+一般的に**ステートマシン**アクティビティと一緒に使用される。操作例は[ステートマシン](activity/../StateMachine.md)を参照してください。

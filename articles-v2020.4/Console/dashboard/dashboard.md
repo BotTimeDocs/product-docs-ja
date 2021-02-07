@@ -20,3 +20,6 @@
 **タスクレコードの概要** ：現在のリソースグループが選択した時間範囲内のすべてのタスクの状態分布状況を統計し、ヒストグラムで毎日のタスク状態分布を示します。
 
 ![dashboard](https://docimages.blob.core.chinacloudapi.cn/images/Console/Dashboard/V3Dashboard3.png)
+
+
+
