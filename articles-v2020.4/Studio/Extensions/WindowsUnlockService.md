@@ -32,7 +32,7 @@
 2. **Windows画面ロック解除はどうやってアンインストールしますか？**</br>
     手順1：アンインストールプログラムの入り口：[アンインストールプログラム](https://docimages.blob.core.chinacloudapi.cn/images/Studio/Extensions/EncooCredentialProviderUnInstall.bat)</br>
     手順2：右クリックして管理者として実行させ、アンインストール成功は下図のようになります。</br>
-    ![Windows 屏幕解锁服务卸载完成](https://docimages.blob.core.chinacloudapi.cn/images/Studio/Extensions/uninstall20201202.png)<br>
+    ![Windows 屏幕解锁服务卸载完成](https://docimages.blob.core.chinacloudapi.cn/images/Studio/Extensions/uninstall20201202.png) </br> 
 
 3. **Windows 10システムでメールオンラインアカウントでログインする場合、ロック解除アクティビティに記入されたユーザ名プロパティは無効**</br>
    ロック解除アクティビティの"ユーザ名"プロパティに、C:\Users"ディレクトリの下で作成されたメールオンラインアカウント名のフォルダ名を記入します。

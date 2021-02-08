@@ -1,4 +1,5 @@
 # コード市場
+
 コード市場を利用して、NuGetアプリケーションを取得し、それを作成したRPAプロセスに加えることができます。
 
 ## 取得と使用
@@ -22,7 +23,7 @@
 
     ![代码市场](https://docimages.blob.core.chinacloudapi.cn/images/Studio/Market/CM-4.PNG)
 
-    > 注意:
+    > **注意：**
     >
     > 各プロジェクトにおいて、少なくとも一つの参照が存在する場合のみ、依存関係が設定されます。
     >
@@ -31,7 +32,6 @@
 7. 編集エリアの*インポート*でダウンロードしたコードパックを検索でき、コードパッケージをクリックすればプロジェクトに参照できます。
 
     ![代码市场](https://docimages.blob.core.chinacloudapi.cn/images/Studio/Market/CM-5.PNG)
-
 
 ## インストール済みのコードパッケージ
 

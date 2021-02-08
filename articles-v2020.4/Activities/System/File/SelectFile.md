@@ -20,3 +20,15 @@
 
 - **選択したファイル** ：選択したファイルの絶対パスを出力します。文字列変数と文字列のみをサポートします。
 
+## 操作サンプル
+1. **ファイルを選択**アクティビティをドラッグ、出力結果に変数filePathを追加。
+![](https://docimages.blob.core.chinacloudapi.cn/images/Activities/selectFile-1.png)
+
+2. **ログに書き込み**アクティビティをドラッグ、選択されたファイルパス情報を出力することができます。
+![](https://docimages.blob.core.chinacloudapi.cn/images/Activities/selectFile-2.png)
+
+3. プロセスを実行、**ファイルを選択**アクティビティが動作を開始し、ファイルを選択のポップアップが表示される。
+![](https://docimages.blob.core.chinacloudapi.cn/images/Activities/selectFile-3.png)
+
+4. 手動でファイルを選択し、出力したファイルパスを確認。
+![](https://docimages.blob.core.chinacloudapi.cn/images/Activities/selectFile-4.png)

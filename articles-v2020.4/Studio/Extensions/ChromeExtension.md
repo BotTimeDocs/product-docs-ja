@@ -1,7 +1,9 @@
 # Chrome拡張機能
+
 エディタで、Chrome拡張機能をインストールすることでブラウザの自動化ができます。この拡張機能をインストールする前に、Google Chromeを閉じるように要求されるかもしれませんので、必ず処理中の関連ジョブを保存してください。
 
 ## インストール
+
 1. エディタの**ツール > 拡張機能**の下でインストールするChrome拡張機能があります。
 
     ![Chrome拡張機能](https://docimages.blob.core.chinacloudapi.cn/images/Studio/Market/extensioninpath20201019.png)

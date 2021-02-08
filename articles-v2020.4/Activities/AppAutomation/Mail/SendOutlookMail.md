@@ -37,8 +37,8 @@
 
 ## よくある質問
 
-1. "あるプログラムがOutlookでユーザーに代わってメールを送信しようとしています"の警告が表示されます。<br>
-   ![发送邮件outlook](https://docimages.blob.core.chinacloudapi.cn/images/Activities/sendoutlookmail20201204.png)<br>
+1. "あるプログラムがOutlookでユーザーに代わってメールを送信しようとしています"の警告が表示されます。 </br> 
+   ![发送邮件outlook](https://docimages.blob.core.chinacloudapi.cn/images/Activities/sendoutlookmail20201204.png) </br> 
    ソリューション：[公式回答](https://docs.microsoft.com/zh-cn/outlook/troubleshoot/security/a-program-is-trying-to-send-an-email-message-on-your-behalf)を参照してください。
 
 ## 操作サンプル

@@ -5,3 +5,4 @@
 ![robot](https://docimages.blob.core.chinacloudapi.cn/images/Robot/updaterobot.png)
 
 もししばらくロボットを更新したくないなら、**キャンセル**を選択してポップアップウィンドウを閉じてください。
+

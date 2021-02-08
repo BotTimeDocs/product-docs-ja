@@ -25,8 +25,8 @@
 
 - **結果** ：このアクティビティの実行結果をこの変数に格納します。指定されたターゲットが消えた場合、格納される値はTrueです。ブール型変数とブール値のみをサポートします。
 
-## 操作サンプル
 
+## 操作サンプル
 1. **要素が消えるまで待つ**アクティビティをドラッグ、対応するプロパティ値を設定。
 ![](https://docimages.blob.core.chinacloudapi.cn/images/Activities/waitElementVanish1.png)
 

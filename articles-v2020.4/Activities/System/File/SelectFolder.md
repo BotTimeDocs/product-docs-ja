@@ -20,13 +20,13 @@
 - **選択したフォルダ** ：選択したフォルダのパスを出力します。文字列変数と文字列のみをサポートします。
 
 ## 操作サンプル
-1. **ファイルを選択**アクティビティをドラッグ、出力結果に変数folderPathを追加。
+1. **フォルダーを選択**アクティビティをドラッグ、出力結果に変数folderPathを追加。
 ![](https://docimages.blob.core.chinacloudapi.cn/images/Activities/selectFolder.png)
 
-2. **ログに書き込み**アクティビティをドラッグ、選択されたファイルパス情報を出力することができます。
+2. **ログに書き込み**アクティビティをドラッグ、選択されたフォルダーパス情報を出力することができます。
 ![](https://docimages.blob.core.chinacloudapi.cn/images/Activities/selectFolder-2.png)
 
-3. プロセスを実行、**ファイルを選択**アクティビティが動作を開始し、ファイルを選択のポップアップが表示される。
+3. プロセスを実行、**フォルダーを選択**アクティビティが動作を開始し、ファイルを選択のポップアップが表示される。
 ![](https://docimages.blob.core.chinacloudapi.cn/images/Activities/selectFolder-3.png)
 
 4. 手動でファイルを選択し、出力したファイルパスを確認。
