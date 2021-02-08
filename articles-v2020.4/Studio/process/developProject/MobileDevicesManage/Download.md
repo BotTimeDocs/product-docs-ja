@@ -1,12 +1,14 @@
 # ステップ1：インストールパッケージをダウンロード
+
 携帯電話を自動化するにはWindowsシステムに以下のいくつかのソフトウェアをインストールする必要があります。
 
 1. **モバイルサービスパッケージ** ：モバイルサービスパッケージは、IOS、Android、Windowsアプリケーションを動かすサービスマネージャです。
 
     各プラットフォームの種類に応じて対応するインストールパッケージをダウンロードします。
 
-- Android（Encoo.Android.Automation）ダウンロード先：<font color="lightgrey">*オンライン待ちです。ご期待ください。*</font>
-- IOS（Encoo.IOS.Automation）ダウンロード先：<font color="lightgrey">*オンライン待ちです。ご期待ください。*</font>
+    - Android（Encoo.Android.Automation）ダウンロード先：[EncooRPAコンソール（エンタープライズ版）](https://console.encoo.com/)の**ホームページ**で最新バージョンの Android サービスパッケージをダウンロードしてください。
+    - IOS（Encoo.IOS.Automation）ダウンロード先：[EncooRPAコンソール（エンタープライズ版）](https://console.encoo.com/)の**ホームページ**で最新バージョンの IOS サービスパッケージをダウンロードしてください。
 
 2. **EncooRPAエディタ** ：EncooRPAエディタ（Encoo Studio）は、Windows Workflowに基づいて開発されたグラフィックス化のプロセスエディタであり、様々な業務プロセスを作成するために使用できます。作成されたプロセスは、コンソールにアップロードするか、ロボットに実行させることができます。
-- EncooRPAエディタ（エンタープライズ版）のダウンロード先：[EncooRPAコンソール（エンタープライズ版）](https://console.encoo.com/)の**ホームページ**で最新バージョンのエディタをダウンロードしてください。
+
+    - EncooRPAエディタ（エンタープライズ版）のダウンロード先：[EncooRPAコンソール（エンタープライズ版）](https://console.encoo.com/)の**ホームページ**で最新バージョンのエディタをダウンロードしてください。

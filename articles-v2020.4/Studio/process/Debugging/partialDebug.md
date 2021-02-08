@@ -8,8 +8,7 @@
 
 ![打开文件/文件夹](https://docimages.blob.core.chinacloudapi.cn/images/Studio/Debugging/openfile&folder20201214.png)
 
-> 注意:
+> **注意：**
 >
 > - プロセス引数を設定するウィンドウは、入力方向の引数の値の変更のみをサポートします。
 > - 引数タイプは Encoo.DataType.FilePath また Encoo.DataType.FolderPath である場合は、上の図に示しているアイコンをクリックでき、ファイルまたはフォルダーのパスを入力できます。
-

@@ -1,4 +1,5 @@
 # 引数リスト
+
 引数リストを使用して引数の作成と変更ができます。
 
 ![引数](https://docimages.blob.core.chinacloudapi.cn/images/Studio/Argument/argumentPanel.png)
@@ -10,7 +11,7 @@
 |引数の型（必須） | 格納したい値の型を選択します。利用可能なオプションは以下のとおりです。</br>Boolean </br>Int32</br>String</br>Object</br>Array of [T] </br> System.Data.DataTable </br> BotTimeUI.Common.Control.Interface.IUiObject </br>.Net の型を参照 </br>もし".Netの型を参照と選択"ウィンドウから.Netの型を選択すると、この型が"引数の型"のプルダウンボックスに追加されます。 |
 | デフォルト値(オプション) | 引数のデフォルト値。このフィールドが空の場合、引数にはデフォルト値がないと意味しています。 |
 
-> 注意:
+> **注意：**
 >
 > 引数のの名前は、システムの予約済みワードを使用してはいけません。例えば、add、deleteなど。
 

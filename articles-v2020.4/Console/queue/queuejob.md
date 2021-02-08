@@ -1,4 +1,3 @@
-
 ## キューのタスクを表示
 あるキューの現在または歴史のタスク実行状況を確認するには、タスクの"詳細"ボタンをクリックすれば"キューリスト"ページに遷移できます。
 ![job](https://docimages.blob.core.chinacloudapi.cn/images/Console/queue/V3queue7.png)
