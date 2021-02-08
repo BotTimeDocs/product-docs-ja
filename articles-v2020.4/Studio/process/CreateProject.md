@@ -20,14 +20,14 @@
    詳細設定にの**デスクトップ録画テクノロジー**の選択については、UEA3の使用を推奨します。
 
     UICA3とUEAの違いは、異なる技術に対するサポートの度合いが異なることである。</br>
-      * WPFとWindows Store Appsに対して、UEA3のサポートがより良いです。
-      * C#とWinFormsに対してUEAのサポートがもっといいです。
+      - WPFとWindows Store Appsに対して、UEA3のサポートがより良いです。
+      - C#とWinFormsに対してUEAのサポートがもっといいです。
 
-        >注：
+        > **注意：**
         >
         >UIA3とUIAを同じプロジェクトで同時に使用することはできません。
 
-        ![プロジェクトを作成](https://docimages.blob.core.chinacloudapi.cn/images/Studio/typeOfWorkflow/myfirstproject20201019.png)
+    ![创建项目](https://docimages.blob.core.chinacloudapi.cn/images/Studio/typeOfWorkflow/myfirstproject20201019.png)
 
 3. アクティビティパネルから"ブラウザーを開く"アクティビティを検索し、編集エリアにドラッグしてスタートノードに接続する
 4. このアクティビティのプロパティパネルに、以下の内容を入力する
@@ -91,5 +91,3 @@
 2. 実行中、エディタは録画した過程を自動的に再生し、明日は雨が降るかどうかのヒントを与える
 
     <!-- ![运行结果](https://docimages.blob.core.chinacloudapi.cn/images/Studio/automationProject/createProject/result.png) -->
-
-

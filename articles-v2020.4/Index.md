@@ -1,4 +1,5 @@
 # Encoo RPAプラットフォーム
+
 Encoo RPAプラットフォーム（Encoo Automate）は、Encoo Technologyが独自に開発したエンタープライズレベルのRPA（Robot Process Automation）プラットフォームであり、企業のお客様に使いやすく、安全で安定したインテリジェントな自動化ソリューションを提供することを目的としています。 Encoo RPAプラットフォームには、3つのコアアクティビティがあり、それぞれは：
 
 1. Encoo エディタ（Encoo Studio）
@@ -7,9 +8,7 @@ Encoo RPAプラットフォーム（Encoo Automate）は、Encoo Technologyが�
 
 この3つのアクティビティが相互に連携して、企業のビジネスプロセスの自動化の素早く実現をサポートします。
 
-
 ![製品アーキテクチャ図](https://docimages.blob.core.chinacloudapi.cn/images/encoo-structure.png)
-
 
 # Encoo RPA製品ドキュメント
 
@@ -19,5 +18,4 @@ Encoo RPAプラットフォーム（Encoo Automate）は、Encoo Technologyが�
 - [Encooアクティビティライブラリドキュメント](https://academy.encoo.com/ja-jp/wiki/Activities/ComponentsIntroduction.md)
 - [Encooロボットドキュメント](https://academy.encoo.com/ja-jp/wiki/Robot/aboutRobot.md)
 - [Encooコンソールドキュメント](https://academy.encoo.com/ja-jp/wiki/Console/register.md)
-- [Encooニプログラムドキュメント](./Apps/aboutApps.md?_v=v2020.4)
-
+- [Encooミニプログラムドキュメント](./Apps/aboutApps.md?_v=v2020.4)

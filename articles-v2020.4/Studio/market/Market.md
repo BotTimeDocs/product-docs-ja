@@ -1,4 +1,5 @@
 # Encoo市場
+
 Encoo市場は以下を含みます。
 
 - **アクティビティ市場**はEncooとパートナーが開発した自動化アクティビティと人工知能アクティビティを大量に提供します。プロセス設計者が基本的なアクティビティの中で業務に適したアクティビティを見つけることができない場合、アクティビティ市場で検索を試してもいいです。プロジェクトにダウンロードすれば使えます。自分で開発する必要がありません。
@@ -17,6 +18,7 @@ Encoo市場は以下を含みます。
 ![ManagementMarket](https://docimages.blob.core.chinacloudapi.cn/images/Studio/Market/managemarket20201214.png)
 
 ###　市場をスイッチ
+
 ページの左上の選択枠から選択して、アクティビティ市場、コード市場、プロセス市場の間で切り替えることができる。
 
 > **説明:**
@@ -26,24 +28,28 @@ Encoo市場は以下を含みます。
 ![切换市场](https://docimages.blob.core.chinacloudapi.cn/images/Studio/Market/switchmarket.png)
 
 ### 市場を作成
+
 ![创建](https://docimages.blob.core.chinacloudapi.cn/images/Studio/Market/add20201214.png)をクリックして、市場名、市場アドレス、ApiKeyを入力して、ローカルまたは特定のネットワークに基づくプライベート市場を追加することができます。
 
 ![创建市场](https://docimages.blob.core.chinacloudapi.cn/images/Studio/Market/createmarket20201214.png)
 
-   - **ローカルプライベート市場** ："市場アドレス"テキストボックスでローカルフォルダを指定して保存したら、ローカルアクティビティをロードできます。例えば、“D:\workspace\Encoo\Excelデータ移行”。
+- **ローカルプライベート市場** ："市場アドレス"テキストボックスでローカルフォルダを指定して保存したら、ローカルアクティビティをロードできます。例えば、“D:\workspace\Encoo\Excelデータ移行”。
 
-   - **特定のネットワークに基づくプライベート市場の展開** ："市場アドレス"テキストボックスに指定されたネットワークの市場アドレスを入力して保存したら、ネット市場をロードできます。例えば、“Https://flowmarket”
+- **特定のネットワークに基づくプライベート市場の展開** ："市場アドレス"テキストボックスに指定されたネットワークの市場アドレスを入力して保存したら、ネット市場をロードできます。例えば、“Https://flowmarket”
 
-    > **説明:**
-    >
-    > 特定のネットワークに基づくプライベート市場を展開するの詳細な手順については、400-699-288に電話して専属コンサルタントに連絡してください。この[ページ](https://www.encoo.com/apply)をアクセスして、連絡先を残すこともできます。スタッフが1-2営業日に連絡します。
+  > **説明:**
+  >
+  > 特定のネットワークに基づくプライベート市場を展開するの詳細な手順については、400-699-288に電話して専属コンサルタントに連絡してください。この[ページ](https://www.encoo.com/apply)をアクセスして、連絡先を残すこともできます。スタッフが1-2営業日に連絡します。
 
 ###　市場を削除
+
 市场リストから削除する市场を选び、![删除市场](https://docimages.blob.core.chinacloudapi.cn/images/Studio/Market/minus20201214.png)をクリックすれば、市場を削除できます。
 
 ### 市場を上下に移動
+
 市場リストで移動する市場を選択し、![上移](https://docimages.blob.core.chinacloudapi.cn/images/Studio/Market/moveup20201214.png)または![下移](https://docimages.blob.core.chinacloudapi.cn/images/Studio/Market/movedown20201214.png)をクリックして、市場を上下に移動できます。
 
-### 市場を有効/無効にする:
+### 市場を有効/無効にする
+
 市場リストで有効/無効にする市場をチェック・チェックアウトすれば、現在の市場を有効/無効にできます。
 ![启用/禁用市场](https://docimages.blob.core.chinacloudapi.cn/images/Studio/Market/enablemarket20201214.png)

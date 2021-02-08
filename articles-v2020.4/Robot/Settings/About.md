@@ -7,3 +7,4 @@
 - もしロボット（エンタープライズ版）が**ローカルでアクティベート**された場合、このページでライセンスの有効期限を確認できます。
 
 ![robot1](https://docimages.blob.core.chinacloudapi.cn/images/Robot/about20201118.png)
+

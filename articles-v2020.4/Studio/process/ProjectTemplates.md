@@ -6,7 +6,6 @@
 >
 >"テンプレートから作成"の右側にある"その他のテンプレート"をクリックすると、すべてのテンプレートが表示されます。
 
-
 ## エンタープライズレベル標準のプロセス
 
 **エンタープライズレベル標準のプロセス**は業務処理に対して標準を提供し、自動化の完成を助けます。このテンプレートにはログ処理、環境処理、関連データ処理が含まれています。
@@ -31,10 +30,8 @@
 
 ![汎用ウェブページプロセス](https://docimages.blob.core.chinacloudapi.cn/images/Studio/automationProject/projectTemplates/%E9%80%9A%E7%94%A8%E7%BD%91%E9%A1%B5%E6%B5%81%E7%A8%8B.jpg)
 
-
 ## エンタープライズプロセステンプレート
+
 **エンタープライズプロセステンプレート***はエンタープライズの一般的な主要なビジネスプロセスを標準化します。
 
 ![エンタープライズプロセステンプレート](https://docimages.blob.core.chinacloudapi.cn/images/Studio/automationProject/projectTemplates/enterpriseflow20201118.jpg)
-=======
-

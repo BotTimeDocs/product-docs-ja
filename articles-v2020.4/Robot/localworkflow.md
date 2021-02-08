@@ -76,4 +76,4 @@
 ユーザーがローカルライブラリのプロセスを削除することをサポートします。コンソールのプロセスライブラリ中のプロセスを削除する場合は、コンソールに行く必要があります。
 1. ローカルライブラリを開いて、削除するプロセスとバージョン番号を選択。
 2. **削除**をクリックして、現在のバージョンを削除するかどうか確認します。"OK"をクリックしてこのバージョンのプロセスを削除します。
-![robot](https://docimages.blob.core.chinacloudapi.cn/images/Robot/robot-deleteflow-1.png)
+    ![robot](https://docimages.blob.core.chinacloudapi.cn/images/Robot/robot-deleteflow-1.png)

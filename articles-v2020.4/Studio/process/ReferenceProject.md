@@ -4,9 +4,8 @@
 
 ## 例
 
-   1. エディタの編集画面で、プロジェクト名を右クリックし、ポップアップメニューから **プロジェクトを参照 > ファイルを選択** を選択します。
+1. エディタの編集画面で、プロジェクト名を右クリックし、ポップアップメニューから **プロジェクトを参照 > ファイルを選択** を選択します。
    ![image-20201207160513550](https://docimages.blob.core.chinacloudapi.cn/images/Activities/image-20201207160513550.png)
-
 
 2. ダイアログで参照するdgs形式のプロジェクトファイルを選択します。
 
@@ -19,14 +18,13 @@
 
 3. 新規作成のプロセスに参照プロセスが必要なところに **プロセスを呼び出し（プロジェクトを参照）** アクティビティをドラッグします。
 
-![image-20201207161253694](https://docimages.blob.core.chinacloudapi.cn/images/Activities/image-20201207161253694.png)
+    ![image-20201207161253694](https://docimages.blob.core.chinacloudapi.cn/images/Activities/image-20201207161253694.png)
 
 4. **プロセスを呼び出し（プロジェクトを参照）** アクティビティをダブルクリックして設定を行う：呼び出したいプロセスとプロセスのメインファイルを選択し、下図のようにします。
     > **説明:**
     >
     > （オプション）"引数の設定"ボタンをクリックすると、今呼び出しているプロセスに引数を設定できます。
 
-![image-20201207161408189](https://docimages.blob.core.chinacloudapi.cn/images/Activities/image-20201207161408189.png)
-
+    ![image-20201207161408189](https://docimages.blob.core.chinacloudapi.cn/images/Activities/image-20201207161408189.png)
 
 5. プロセス（Ctrl + S）を保存して実行（Ctrl+F5）します。
