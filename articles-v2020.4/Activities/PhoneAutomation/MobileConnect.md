@@ -22,14 +22,14 @@
 
 ## 操作サンプル
 
-1. 携帯とパソコンはもう接続済み。[モバイルデバイスマネージャ](/articles-v2020.4/Studio/process/developProject/MobileDevicesManage/Download.md)を参照してください。
+1. 携帯とパソコンはもう接続済み。[モバイルデバイスマネージャ](../../Studio/process/developProject/MobileDevicesManage/Download.md)を参照してください。
 
 2. **デバイスに接続**アクティビティをプロセス中にドラッグ。
 3. **モバイルデバイスマネージャ**ウィンドウで追加したデバイス情報をコピー。
    ![复制设备信息](https://docimages.blob.core.chinacloudapi.cn/images/Activities/copydeviceinformation20201222.png)
 
-4. ダブルクリック**接続デバイス**アクティビティの空白のところから、構成画面に入ります。
-5. 選択**プラットフォームの種類**をクリックします**ワンタッチ充填**"ボタンを押します**接続デバイス**アクティビティの構成。\
+4. **接続デバイス**アクティビティの空白でダブルクリック、構成画面に入る。
+5. **プラットフォームの種類**を選択し、**ワンクリックでフィル**"ボタンを押して、**デバイスに接続**アクティビティの構成を完了。
     ![配置连接设备](https://docimages.blob.core.chinacloudapi.cn/images/Activities/settingconnectservice20201222.png)
 
 6. プロセスを保存して実行する

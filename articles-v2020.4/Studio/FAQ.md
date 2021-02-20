@@ -60,6 +60,6 @@
 
 1. **Q: どうやってchromeプラグインをインストールしますか？**
 
-    **A:** エディタを開き、ウィンドウのツールバーで"拡張"をクリックし、Chrome拡張機能をクリックして、指示に従って操作すればいいです。（インストール後、手動でブラウザを開き、拡張機能を有効にしてください。：chrome://extensions/ で拡張機能を有効にします。
+    **A:** エディタを開き、**スタート > ツール > 拡張**で、Chrome拡張機能をクリックして、指示に従って操作すればいいです。（インストール後、手動でブラウザを開き、拡張機能を有効にしてください：chrome://extensions/ で拡張機能を有効にします。)
 
-    ![拡張をインストール](https://docimages.blob.core.chinacloudapi.cn/images/Studio/userInterface/toolbar-extension.PNG)
+    ![安装扩展](https://docimages.blob.core.chinacloudapi.cn/images/Studio/Market/extensioninpath20201019.png)

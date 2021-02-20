@@ -1,5 +1,7 @@
 # FireFox拡張機能
+
 ## インストール
+
 1. エディタの**ツール > 拡張機能**の下でインストールするFireFox拡張機能があります。
 
     ![FireFox拡張機能](https://docimages.blob.core.chinacloudapi.cn/images/Studio/Market/extensioninpath20201019.png)

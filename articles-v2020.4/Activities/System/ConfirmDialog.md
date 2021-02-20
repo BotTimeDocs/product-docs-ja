@@ -33,4 +33,6 @@
 4. 実行結果を確認。下図のように。
 
    ![查看运行结果](https://docimages.blob.core.chinacloudapi.cn/images/Activities/showresult20201221.png)
-   
+   >**説明：**
+   >
+   >ポップアップボックスに表示されているコンテンツを選択し、右クリックしてコンテンツをコピーできます。
