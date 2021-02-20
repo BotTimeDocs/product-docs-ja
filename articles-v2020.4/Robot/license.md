@@ -12,17 +12,15 @@
 
 
 # コミュニティ版ロボットをアクティブ化
-コミュニティ版を選択-コンソールでアクティベートを選択して、アクティベートページを開きます。
+1. コミュニティ版を選択-コンソールでアクティベートを選択して、アクティベートページを開きます。
 
 ![robot1](https://docimages.blob.core.chinacloudapi.cn/images/Robot/activecommunityrobot-N-1.png)
 
+2. "**アクティベーション**"をクリックして、初めて使用可能なライセンスがない場合、ライセンス割り当てのプロンプトがポップアップ表示されます。
 
-接続文字列：コンソールに入り、ステータスが**未接続**のロボットを見つけ、コンソールで作成したロボットの**接続文字列**をコピーして記入します。
+![robot1](https://docimages.blob.core.chinacloudapi.cn/images/Robot/robotlicense20201230.png)
 
-![robot1](https://docimages.blob.core.chinacloudapi.cn/images/Robot/getrobotconnectionstring.png)
-
-
-アクティベーションをクリックすればロボットをアクティブ化できます。
+3. 「OK」をクリックしてロボットを起動し、概要ページに入ります。
 
 
 # エンタープライズ版ロボットをアクティブ化
