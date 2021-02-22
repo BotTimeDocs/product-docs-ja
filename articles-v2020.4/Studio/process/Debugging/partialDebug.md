@@ -11,4 +11,4 @@
 > **注意：**
 >
 > - プロセス引数を設定するウィンドウは、入力方向の引数の値の変更のみをサポートします。
-> - 引数タイプは Encoo.DataType.FilePath また Encoo.DataType.FolderPath である場合は、上の図に示しているアイコンをクリックでき、ファイルまたはフォルダーのパスを入力できます。
+> - 引数タイプは `Encoo.DataType.FilePath`  また `Encoo.DataType.FolderPath` である場合は、上の図に示しているアイコンをクリックでき、ファイルまたはフォルダーのパスを入力できます。

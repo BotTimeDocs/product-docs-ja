@@ -27,6 +27,7 @@
    > **説明：**
    >
    >　異なるバージョンのインストールディレクトリについては、以下を参照してください：
+   >
    > - 1.1.2009.X前のバージョンのインストールディレクトリ：`C:\Users\UserName\AppData\Local\Encoo\Encoo Studio\IDE\JavaSupport`、`UserName` は実際のユーザー名です。
    > - 1.1.2009.X後のバージョンのインストールディレクトリ：C:\Users\UserName\AppData\Local\Encoo Studio\app-x.x.xxxx.xx\Extensions\Java、UserNameは実際のユーザー名です。
 

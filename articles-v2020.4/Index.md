@@ -14,8 +14,8 @@ Encoo RPAプラットフォーム（Encoo Automate）は、Encoo Technologyが�
 
 この記事は、EncooRPAのヘルプガイドとして主にEncooRPAプラットフォームを使用してビジネスプロセスを自動化する方法を紹介します。以下のリンクをクリックして、RPAの旅をすばやく開始しましよう。
 
-- [Encoo エディタードキュメント](https://academy.encoo.com/ja-jp/wiki/Studio/Introduction/Introduction.md)
-- [Encooアクティビティライブラリドキュメント](https://academy.encoo.com/ja-jp/wiki/Activities/ComponentsIntroduction.md)
-- [Encooロボットドキュメント](https://academy.encoo.com/ja-jp/wiki/Robot/aboutRobot.md)
-- [Encooコンソールドキュメント](https://academy.encoo.com/ja-jp/wiki/Console/register.md)
-- [Encooミニプログラムドキュメント](./Apps/aboutApps.md?_v=v2020.4)
+- [Encoo エディタードキュメント](./Studio/Introduction/Introduction.md)
+- [Encooアクティビティライブラリドキュメント](./Activities/ComponentsIntroduction.md)
+- [Encooロボットドキュメント](./Robot/aboutRobot.md)
+- [Encooコンソールドキュメント](./Console/userlogin.md)
+- [Encooミニプログラムドキュメント](./Apps/aboutApps.md)
