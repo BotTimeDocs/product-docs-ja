@@ -12,7 +12,7 @@ Encooエディタは、大量の引数の型をサポートします。これら
 >
 > 引数名は、引数の転送の方向を示すためにラクダのプレフィックスを使用する必要があります。
 >
-> 例えば　Default Timeout，in_FileName，out_Text Result，io_RetryNumber。
+> 例えば　in_DefaultTimeout，in_FileName，out_TextResult，io_RetryNumber。
 
 新しい引数を作成する場合は：
 

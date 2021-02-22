@@ -1,3 +1,4 @@
+
 # Windows画面ロック解除サービス
 
 ## ケース紹介
@@ -8,7 +9,7 @@
 
 ## ケース実現
 
-ロボットまたはエディタが[スクリーンをロック](System/Screen/WindowsLockActivity.md)または[ロックを解除](System/Screen/WindowsUnlockActivity.md)を実行する前、Windowsのソフトウェアインターフェイスの操作を自動化するには、**管理者**として**Windows画面ロック解除サービス**をインストールする必要があります。
+ロボットまたはエディタが[スクリーンをロック](../../Activities/System/Screen/WindowsLockActivity.md)または[ロックを解除](../../Activities/System/Screen/WindowsUnlockActivity.md)を実行する前、Windowsのソフトウェアインターフェイスの操作を自動化するには、**管理者**として**Windows画面ロック解除サービス**をインストールする必要があります。
 
 1. **Windows画面ロック解除サービスをインストール** </br>
 
