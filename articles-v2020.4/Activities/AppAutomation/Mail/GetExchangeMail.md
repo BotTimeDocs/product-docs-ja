@@ -30,7 +30,7 @@
 
 ### 出力
 
-- **メール** ：取得したメールをこの変数に格納します。変数タイプはList&lt;System.Net.Mail.MailMessage&gt;です。
+- **メール** ：取得したメールをこの変数に格納します。変数タイプは List&lt; System.Net.Mail.MailMessage&gt;です。
 
 ## 操作サンプル
 

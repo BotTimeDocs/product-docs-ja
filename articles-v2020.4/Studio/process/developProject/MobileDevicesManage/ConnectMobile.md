@@ -63,8 +63,7 @@
    > **説明:**
    > ADBはGoogle公式が提供するAndroidデバッグツールです。
 
-​</br>
-    環境変数を作成して、Pathに追加します。例えば、"D:\workspace\Encoo\Encoo.Android.Automation\airtest\core\android\static\adb\windows"。自分の実際の状況によって置き換えられます。
+   <br>環境変数を作成して、Pathに追加します。例えば、"D:\workspace\Encoo\Encoo.Android.Automation\airtest\core\android\static\adb\windows"。自分の実際の状況によって置き換えられます。
 
    ![环境变量](https://docimages.blob.core.chinacloudapi.cn/images/Studio/environment20201104.png)
 
@@ -75,17 +74,9 @@
 
    b. 設備の接続を確認
 
-PCの**コマンドライン**インターフェースで、adbコマンドを入力し、接続成功例は以下の通りです。
+   PCの**コマンドライン**インターフェースで、 `adb devices` コマンドを入力し、接続成功例は以下の通りです。
 
-   ```shell
-      >adb.exe
-
-      devicesList of devices attached
-
-      0ddc4c2d(実行のデバイス番号、もしあるの場合) device
-
-      127.0.0.1:7555（シミュレータのデバイス番号、もしあるの場合）device
-   ```
+   ![连接成功示例](https://docimages.blob.core.chinacloudapi.cn/images/Studio/deviceconnect20210129.png)
 
    > **説明:**
    >
