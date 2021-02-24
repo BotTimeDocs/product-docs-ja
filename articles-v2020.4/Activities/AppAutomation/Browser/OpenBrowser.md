@@ -27,7 +27,7 @@
 
 ## 操作サンプル
 
-1. **ブラウザを開く**アクティビティをプロジェクトプロセスにドラッグ:
+1.  **ブラウザを開く** アクティビティをプロジェクトプロセスにドラッグ:
 ![](https://docimages.blob.core.chinacloudapi.cn/images/Activities/OpenBrowser20201221-01.png)
 
 2. ブラウザのタイプを選択、URLを入力:

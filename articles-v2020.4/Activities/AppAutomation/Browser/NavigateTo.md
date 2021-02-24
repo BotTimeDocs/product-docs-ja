@@ -24,10 +24,10 @@
 
 ## 操作サンプル
 
-1. **ブラウザをバインド**アクティビティをプロジェクトプロセスにドラッグ:
+1.  **ブラウザをバインド** アクティビティをプロジェクトプロセスにドラッグ:
 ![](https://docimages.blob.core.chinacloudapi.cn/images/Activities/AttacBrowser20201221.png)
 
-2. ダブルクリックして開いて、ブラウザを指定。例：Encoo公式サイト、**ナビゲート**アクティビティをドラッグ、Encoo学院のURLを入力して、下図のようになります。
+2. ダブルクリックして開いて、ブラウザを指定。例：Encoo公式サイト、 **ナビゲート** アクティビティをドラッグ、Encoo学院のURLを入力して、下図のようになります。
 ![](https://docimages.blob.core.chinacloudapi.cn/images/Activities/NavigateTo20201221.png)
 
 3. 実行をクリックして、実行結果を確認する。Encoo学院のホームページに移動しました。

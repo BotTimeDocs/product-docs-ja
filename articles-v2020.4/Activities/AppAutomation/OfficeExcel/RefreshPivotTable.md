@@ -19,7 +19,7 @@
 
 ## 操作サンプル
 
-1. "販売統計"という新しいピボットテーブルを作成。詳細は[ピボットテーブルを作成](product-docs\articles-v2020.4\Activities\AppAutomation\OfficeExcel\CreatePivotTable.md)を参照してください。
+1. "販売統計"という新しいピボットテーブルを作成。詳細は[ピボットテーブルを作成](./CreatePivotTable.md)を参照してください。
 
 2. **Excelを開く/新規作成**アクティビティをプロジェクトプロセスにドラッグ:
 ![](https://docimages.blob.core.chinacloudapi.cn/images/Activities/OpenExcel1.png)

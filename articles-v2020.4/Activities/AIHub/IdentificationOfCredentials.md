@@ -33,7 +33,7 @@
 
 
    > **説明:**
-   > 
+   >
    > コンソールアカウントを使ってエディタにログインする必要があります。（プライベートエンタープライズ版はまだサポートしていません。）試用回数を超えたら、Encoo[AI HUB](https://aihub.encoo.com/serviceAccount)に行って設定してください。下図のように。
 
    ![](https://docimages.blob.core.chinacloudapi.cn/images/Activities/IdentificationOfCredentials_4.png)
