@@ -2,37 +2,37 @@
     {
         "id": "Encoo.CodeTool.Activity.Activities.Dictionary.AddDictionaryActivity",
         "name": "AddDictionaryActivity.md",
-        "localizedName": "添加键值对",
+        "localizedName": "キーと値のペアを追加",
         "uuid": "ab1eddcb-8e7e-4936-9bcf-8cd09f3e20ce"
     },
     {
         "id": "Encoo.CodeTool.Activity.Activities.Dictionary.InitializeDictionaryActivity",
         "name": "InitializeDictionaryActivity.md",
-        "localizedName": "初始化字典",
+        "localizedName": "辞書を初期化する",
         "uuid": "96d8c3ef-f69d-489f-afa6-a48bb7caf62d"
     },
     {
         "id": "Encoo.CodeTool.Activity.Activities.Dictionary.RemoveKeyValueActivity",
         "name": "RemoveKeyValueActivity.md",
-        "localizedName": "移除键值对",
+        "localizedName": "キーと値のペアを削除",
         "uuid": "96d8c3ef-f69d-489f-afa6-a48bb7caf62d"
     },
     {
         "id": "Encoo.CodeTool.Activity.Activities.Dictionary.ContainsKeyValueActivity",
         "name": "ContainsKeyValueActivity.md",
-        "localizedName": "是否包含键/值",
+        "localizedName": "キー/値を含めるかどうか",
         "uuid": "96d8c3ef-f69d-489f-afa6-a48bb7caf62d"
     },
     {
         "id": "Encoo.CodeTool.Activity.Activities.Dictionary.GetQuantityOfDictionaryActivity",
         "name": "GetQuantityOfDictionaryActivity.md",
-        "localizedName": "获取键值对数量",
+        "localizedName": "キーと値のペアの数を取得",
         "uuid": "96d8c3ef-f69d-489f-afa6-a48bb7caf62d"
     },
     {
         "id": "Encoo.CodeTool.Activity.Activities.Dictionary.EmptyDictionaryActivity",
         "name": "EmptyDictionaryActivity.md",
-        "localizedName": "清空字典",
+        "localizedName": "ディクショナリをクリア",
         "uuid": "96d8c3ef-f69d-489f-afa6-a48bb7caf62d"
     }
 ]
