@@ -2,27 +2,27 @@
     {
         "id": null,
         "name": "component",
-        "localizedName": "组件库",
+        "localizedName": "コンポーネントライブラリ",
         "uuid": "fec70237-3397-40ec-9710-c5fb4cf02173"
     },
     {
         "id": null,
         "name": "PageSetting.md",
-        "localizedName": "页面配置",
+        "localizedName": "ページの設定",
         "uuid": "bc4a3f42-d2ab-4610-ba97-1c22d3bb2a0a",
         "labels": "配置, 页面"
     },
     {
         "id": null,
         "name": "BasicSetting.md",
-        "localizedName": "基本设置",
+        "localizedName": "ミニプログラムの基本設定",
         "uuid": "bc8c11ba-57f5-4504-ad99-ec8242180e73",
         "labels": "设置, 基本, 小程序"
     },
     {
         "id": null,
         "name": "TableManagement",
-        "localizedName": "数据表管理",
+        "localizedName": "データシート管理",
         "uuid": "2cfdd57e-29aa-47f1-b574-5840e893509b"
     },
     {

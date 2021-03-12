@@ -7,13 +7,12 @@
     {
         "id": null,
         "name": "DataProcessing",
-        "localizedName": "格式"
+        "localizedName": "かくしき"
     },
-
     {
         "id": null,
         "name": "CollectionProcessing",
-        "localizedName": "集合"
+        "localizedName": "しゅうごう"
     },
     {
         "id": null,
@@ -28,17 +27,17 @@
     {
         "id": null,
         "name": "ArrayProcessing",
-        "localizedName": "数组处理"
+        "localizedName": "アレイ処理"
     },
     {
         "id": null,
         "name": "Dictionary",
-        "localizedName": "字典"
+        "localizedName": "じてん"
     },
     {
         "id": null,
         "name": "TypeConversion",
-        "localizedName": "类型转换"
+        "localizedName": "かたのへんかん"
     },
     {
         "id": null,
@@ -53,6 +52,6 @@
     {
         "id": null,
         "name": "TextProcessing",
-        "localizedName": "文本"
+        "localizedName": "ドキュメンテーション"
     }
 ]

@@ -2,54 +2,54 @@
     {
         "id": "",
         "name": "ComponentsIntroduction.md",
-        "localizedName": "介绍",
+        "localizedName": "紹介",
         "uuid": "9f790d12-315d-4aa2-b69f-7ed0d02997a5",
         "labels": "介绍"
     },
     {
         "id": null,
         "name": "WorkflowControl",
-        "localizedName": "流程控制"
+        "localizedName": "ふろーせいぎょ"
     },
     {
         "id": null,
         "name": "UIAutomation",
-        "localizedName": "界面自动化"
+        "localizedName": "インターフェース自動化"
     },
     {
         "id": null,
         "name": "AppAutomation",
-        "localizedName": "软件自动化"
+        "localizedName": "ソフトウェア自動化"
     },
     {
         "id": null,
         "name": "System",
-        "localizedName": "系统"
+        "localizedName": "システム"
     },
     {
         "id": null,
         "name": "Check",
-        "localizedName": "校验"
+        "localizedName": "りっしょう"
     },
     {
         "id": null,
         "name": "DataTable",
-        "localizedName": "数据表"
+        "localizedName": "でーたりすと"
     },
     {
         "id": null,
         "name": "Database",
-        "localizedName": "数据库"
+        "localizedName": "でーたべーす"
     },
     {
         "id": null,
         "name": "CodeExecuter",
-        "localizedName": "代码工具"
+        "localizedName": "コードツール"
     },
     {
         "id": null,
         "name": "Triggers",
-        "localizedName": "触发器"
+        "localizedName": "トグルスイッチ"
     },
     {
         "id": null,
@@ -59,16 +59,16 @@
     {
         "id": null,
         "name": "PhoneAutomation",
-        "localizedName": "手机自动化"
+        "localizedName": "携帯電話の自動化"
     },
     {
         "id": null,
         "name": "Console",
-        "localizedName": "控制台"
+        "localizedName": "はいせんばん"
     },
     {
         "id": null,
         "name": "Appendix",
-        "localizedName": "附录"
+        "localizedName": "ふろく"
     }
 ]
