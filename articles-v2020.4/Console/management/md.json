@@ -2,26 +2,26 @@
     {
         "id": null,
         "name": "users",
-        "localizedName": "用户信息"
+        "localizedName": "ユーザ情報"
     },
     {
         "id": null,
         "name": "roles",
-        "localizedName": "角色管理"
+        "localizedName": "役割管理"
     },
     {
         "id": null,
         "name": "groups",
-        "localizedName": "资源组管理"
+        "localizedName": "リソース・グループ・マネジメント"
     },
     {
         "id": null,
         "name": "log",
-        "localizedName": "审计日志"
+        "localizedName": "監査日誌"
     },
     {
         "id": null,
         "name": "license",
-        "localizedName": "许可证"
+        "localizedName": "許可証"
     }
 ]

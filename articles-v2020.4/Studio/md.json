@@ -1,33 +1,33 @@
 [
     {
         "name": "Introduction",
-        "localizedName": "产品介绍"
+        "localizedName": "製品紹介"
     },
     {
         "name": "quickStart",
-        "localizedName": "快速开始"
+        "localizedName": "早く始める"
     },
     {
         "name": "process",
-        "localizedName": "项目流程"
+        "localizedName": "プロジェクトの流れ"
     },
     {
         "name": "VersionControl.md",
-        "localizedName": "版本控制",
+        "localizedName": "バージョンコントロール",
         "uuid": "3b7e4427-2af2-48bf-9c06-3f5d4c412eb3",
         "labels": "版本控制"
     },
     {
         "name": "Extensions",
-        "localizedName": "扩展"
+        "localizedName": "てんえんさぎょう"
     },
     {
         "name": "market",
-        "localizedName": "云扩市场"
+        "localizedName": "Encoo市場"
     },
     {
         "name": "FAQ.md",
-        "localizedName": "常见问题",
+        "localizedName": "FAQ",
         "uuid": "edf49939-4f26-4c60-9fcc-c45da6eba123",
         "labels": "FAQ, 常见问题"
     }
